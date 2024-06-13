@@ -9,7 +9,7 @@ image:
   repository: xuanhaj/my-react-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v11"
+  tag: "v12"
 
 imagePullSecrets: []
 nameOverride: ""
